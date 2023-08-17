@@ -15,9 +15,10 @@ _ Proteina en polvo
 ### EL proyecto está dirigido a un público objetivo entre 15 y 60 años 
 
 ### La tipogafia a utilizar será : 
+[Nunito] (https://fonts.google.com/specimen/Nunito?query=nunito)
 
-### Paleta de colores :
-
+### Paleta de colores : 
+![Paleta] (https://postimg.cc/mzfTt43S)
 
 ### Logo : 
 [Logo](https://turbologo.com/designs/34087286)

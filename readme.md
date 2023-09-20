@@ -15,11 +15,13 @@ _ Proteina en polvo
 ### EL proyecto está dirigido a un público objetivo entre 15 y 60 años 
 
 ### La tipogafia a utilizar será : 
-[Nunito] (https://fonts.google.com/specimen/Nunito?query=nunito)
+[Nunito](https://fonts.google.com/specimen/Nunito?query=nunito)
 
 ### Paleta de colores : 
-![Paleta] (https://postimg.cc/mzfTt43S)
+[Paleta](https://postimg.cc/mzfTt43S)
 
 ### Logo : 
 [Logo](https://turbologo.com/designs/34087286)
 
+### Figma:
+[Fit.Co](https://www.figma.com/file/F2VvKJDsLBfBGyETBge4eo/Aldana-Zamar---Alfonso?type=design&node-id=0-1&mode=design&t=FuOoiyQ9ZR10GaFI-0)

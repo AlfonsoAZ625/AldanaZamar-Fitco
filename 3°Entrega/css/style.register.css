@@ -7,6 +7,7 @@
 body {
     height: 100vh;
     width: 100vw;
+    min-width: 420px;
 }
 
 
@@ -134,4 +135,29 @@ form {
     font-family: 'Nunito', sans-serif;
     width: 100%;
     height: 10vh;
+}
+
+@media (min-width:769px) {
+    .label {
+        width: 30vw;
+        flex-direction: column;
+        font-size: 1.5rem;
+        justify-content: center;
+        border: #000000 solid 1px;
+        border-radius: 1rem;
+
+    }
+
+    input {
+        display: flex;
+        flex-direction: column;
+        text-align: center;
+        justify-content: center;
+        align-items: center;
+    }
+}
+
+.footer {
+    display: flex;
+    flex-direction: row;
 }

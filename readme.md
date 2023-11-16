@@ -25,3 +25,13 @@ _ Proteina en polvo
 
 ### Figma:
 [Fit.Co](https://www.figma.com/file/F2VvKJDsLBfBGyETBge4eo/Aldana-Zamar---Alfonso?type=design&node-id=0-1&mode=design&t=FuOoiyQ9ZR10GaFI-0)
+
+
+### 4° Entrega:
+
+Campos para la tabla de productos:
+-idProducto: Identificador único del producto (clave primaria, autoincremental).
+-nombre: Nombre del producto.
+-descripcion: Descripción detallada del producto.
+-precio: Precio del producto.
+-stock: Cantidad disponible en inventario.

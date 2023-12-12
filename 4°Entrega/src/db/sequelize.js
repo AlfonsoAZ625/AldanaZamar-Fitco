@@ -5,7 +5,7 @@ const db = new Sequelize({
     database: 'icaro',
     dialect: 'mysql',
     username: 'root',
-    password: 'Alfonso4314235',
+    password: 'alnso....',
 });
 
 module.exports = db
